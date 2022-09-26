@@ -1,0 +1,7 @@
+avatar, proportioned {max-height: 300px;
+        width: 100%;
+}
+
+avatar, distorted {width: 200px;
+    height: 200%;
+}
